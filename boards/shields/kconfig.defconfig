@@ -1,0 +1,6 @@
+if SHIELD_GRANDHI
+
+config ZMK_KEYBOARD_NAME
+    default "grandhi"
+
+endif    
