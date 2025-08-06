@@ -1,6 +1,6 @@
-if SHIELD_GRANDHI
+hif SHIELD_GRANDHI
 
 config ZMK_KEYBOARD_NAME
-    default "grandhi"
+    default "saketh"
 
 endif    
